@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+instance/
+*.env
+JY_API_KEY.env
+.vscode/
+build/
+dist/
+*.egg-info/
