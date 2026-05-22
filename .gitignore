@@ -13,3 +13,5 @@ JY_API_KEY.env
 build/
 dist/
 *.egg-info/
+TOKEN_JINYINGYA.txt
+新增 文字文件.txt
