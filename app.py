@@ -115,7 +115,7 @@ if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     debug = os.environ.get("FLASK_DEBUG", "").lower() in ("1", "true", "yes")
     print("=" * 50)
-    print("    Flask 天氣搜尋應用")
+    print("    JY的天氣小教室")
     print("=" * 50)
     print(f"訪問地址: http://localhost:{port}")
     print("=" * 50)
